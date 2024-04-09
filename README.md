@@ -5,3 +5,4 @@ service request "pot holes reporteD" last updated - march 7, 2019 - this is an o
 potholes patched "last seven days" last updated - april 9, 2024 ; for all potholes - april 7, 2024
 pot holes reported - NO DUPLICATES - is another data set that filters requests so that reports of the same pothole are not in the information- allegedly updated daily. last updated april 17, 2019
 there are 44 results when the word "pothole" is filtered for the data portal
+there are datasets with inherently the same idea but wokded differently, i.e. previous vs last
