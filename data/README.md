@@ -1,3 +1,2 @@
 # caniaccombo-potholes
-the rat pothole 
-this is where data jesus lives
+This file contains the .csv files that are connected to the Datawrapper charts representing the finding of the pothole and patched data.
