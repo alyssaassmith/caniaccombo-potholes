@@ -5,3 +5,4 @@ In this project, our group analyzed two datasets comprised of data pertaining to
 Our group collaborated and analyzed the data by utilizing different methods of code on python to acquire specific data that would answer the following questions: "What seasons do the most potholes get filled?" "On average how long does it take for a pothole to be filled?" and "Which wards have the most pothole requests?"
 
 https://datawrapper.dwcdn.net/22o5d/2/
+https://www.datawrapper.de/_/JaSv6/
