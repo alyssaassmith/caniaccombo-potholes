@@ -1,2 +1,2 @@
 # caniaccombo-potholes
-the rat pothole 
+This file contains everyone's individual notebooks.
