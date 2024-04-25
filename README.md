@@ -6,4 +6,4 @@ Our group collaborated and analyzed the data by utilizing different methods of c
 
 https://datawrapper.dwcdn.net/22o5d/3/
 
-https://www.datawrapper.de/_/JaSv6/
+https://datawrapper.dwcdn.net/JaSv6/2/
